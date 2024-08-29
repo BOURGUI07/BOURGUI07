@@ -15,6 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Existing icons -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
@@ -43,6 +44,31 @@
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="junit" width="40" height="40"/>
   </a>
+  <!-- Adding Mockito icon -->
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/main/javadoc/org/mockito/logo.png" alt="mockito" width="40" height="40"/>
+  </a>
+  <!-- Adding Hibernate icon -->
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/914842431748739072/66NFe2g3_400x400.jpg" alt="hibernate" width="40" height="40"/>
+  </a>
+  <!-- Adding Maven icon -->
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*cLum_fHzsp_7mx29fHw-nA.png" alt="maven" width="40" height="40"/>
+  </a>
+  <!-- Adding Swagger icon -->
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/7658037?v=4" alt="swagger" width="40" height="40"/>
+  </a>
+  <!-- Adding Lombok icon -->
+  <a href="https://projectlombok.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" alt="lombok" width="40" height="40"/>
+  </a>
+  <!-- Adding RabbitMQ icon -->
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Rabbit.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" alt="rabbitmq" width="40" height="40"/>
+  </a>
 </p>
+
 
 
