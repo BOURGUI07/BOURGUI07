@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Backend of Spring Boot e-Commerce App](https://github.com/BOURGUI07/Backend-of-spring-boot-e-Commerce-app)
 
-- 🌱 I’m currently learning **CI/CD Pipelines, Docker, and Microservices**
-
 - 🔭 As well as on [Backend of Criminal Evidence Management System Application](https://github.com/BOURGUI07/Backend-of-Criminal-Evidence-Management-System-Application)
+
+- 🌱 I’m currently learning **CI/CD Pipelines, Docker, and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BOURGUI07](https://github.com/BOURGUI07)
 
