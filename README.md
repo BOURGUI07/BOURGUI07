@@ -68,6 +68,10 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Rabbit.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" alt="rabbitmq" width="40" height="40"/>
   </a>
+  <!-- Adding Postman icon -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 
 
