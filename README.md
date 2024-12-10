@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Youness Bourgui</h1>
 <h3 align="center">Java Backend Developer, OCA Java SE 8 Programmer</h3>
 
-- 🔭 I’m currently working on [Backend of Spring Boot e-Commerce App](https://github.com/BOURGUI07/Backend-of-spring-boot-e-Commerce-app)
-
-- 🔭 As well as on [Backend of Criminal Evidence Management System Application](https://github.com/BOURGUI07/Backend-of-Criminal-Evidence-Management-System-Application)
+- 🔭 I’m currently working on [Distributed eCommerce Application](https://github.com/BOURGUI07/mvc-to-webflux)
 
 - 🌱 I’m currently learning **CI/CD Pipelines, Docker, and Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BOURGUI07](https://github.com/BOURGUI07)
 
-- 💬 Ask me about **Java, Spring Boot, and Hibernate**
+- 💬 Ask me about **Java, Spring Boot, Apache Kafka, and Microservices**
 
 - 📫 How to reach me **younessbourgui@gmail.com OR younessbourgui07@gmail.com**
 
