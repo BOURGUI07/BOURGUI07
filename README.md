@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Distributed eCommerce Application](https://github.com/BOURGUI07/mvc-to-webflux)
 
-- 🌱 I’m currently learning **CI/CD Pipelines, Docker, and Microservices**
+- 🌱 I’m currently learning **Frontend Development(HTML,CSS, JS, and React)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BOURGUI07](https://github.com/BOURGUI07)
 
-- 💬 Ask me about **Java, Spring Boot, Apache Kafka, and Microservices**
+- 💬 Ask me about **Java, Spring Boot, Apache Kafka, Kubernetes, Project Reactor, and Microservices**
 
 - 📫 How to reach me **younessbourgui@gmail.com OR younessbourgui07@gmail.com**
 
